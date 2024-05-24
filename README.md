@@ -1,3 +1,7 @@
+### PyConUS 2024 Speaker 🎤
+
+I recently had the privilege of delivering a talk at PyConUS 2024 titled ["Enhancing Decorators with Type Annotations: Techniques and Best Practices"](https://us.pycon.org/2024/schedule/presentation/42/), where I shared insights on leveraging type annotations to enrich decorators effectively.
+
 ### Hi there 👋,
 
 I am a software developer who enjoys contributing to Open Source Software (OSS) with a goal to make the development environment friendlier 😄. 
