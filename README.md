@@ -5,7 +5,7 @@
 - **EuroPython 2025** – 30-minute talk scheduled for Prague · Jul 2025
 - _Past:_ “Enhancing Decorators with Type Annotations” (PyCon US & EuroPython 2024)
 
-## 🐍 PEP 750 Co-author 🧩
+## 🐍 PEP 750 Co-author
 Co-author of [PEP 750 – Template Strings (t-strings)](https://peps.python.org/pep-0750/)  
 t-strings are available starting in **Python 3.14.0b1** and will ship with the 3.14 stable release later this year.
 
