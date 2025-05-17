@@ -1,24 +1,18 @@
-### PyConUS 2024 & EuroPython 2024 Speaker 🎤
+# Koudai Aono — Python Developer / OSS Maintainer
 
-I recently had the privilege of delivering a talk titled ["Enhancing Decorators with Type Annotations: Techniques and Best Practices"](https://us.pycon.org/2024/schedule/presentation/42/) at PyConUS 2024 and [EuroPython 2024](https://ep2024.europython.eu/session/enhancing-decorators-with-type-annotations-techniques-and-best-practices). In this talk, I shared insights on leveraging type annotations to enrich decorators effectively.
+## 🗓️ Speaker
+- **PyCon US 2025** – 30-minute talk (Pittsburgh · May 2025)
+- **EuroPython 2025** – 30-minute talk scheduled for Prague · Jul 2025
+- _Past:_ “Enhancing Decorators with Type Annotations” (PyCon US & EuroPython 2024)
 
-### Hi there 👋,
+## 🐍 PEP 750 Co-author 🧩
+Co-author of [PEP 750 – Template Strings (t-strings)](https://peps.python.org/pep-0750/)  
+t-strings are available starting in **Python 3.14.0b1** and will ship with the 3.14 stable release later this year.
 
-I am a software developer who enjoys contributing to Open Source Software (OSS) with a goal to make the development environment friendlier 😄. 
+## 🛠️ OSS Highlights
+- [`pydantic-pycharm-plugin`](https://github.com/koxudaxi/pydantic-pycharm-plugin) — featured on the JetBrains PyCharm Blog  
+- [`poetry-pycharm-plugin`](https://github.com/koxudaxi/poetry-pycharm-plugin) — bundled with PyCharm since 2021.3  
+- [`ruff-pycharm-plugin`](https://github.com/koxudaxi/ruff-pycharm-plugin) — first-class Ruff workflow in PyCharm  
+- [`datamodel-code-generator`](https://github.com/koxudaxi/datamodel-code-generator) — outputs **Pydantic v1/v2**, `dataclasses`, `TypedDict`, `msgspec.Struct`
 
-Here are some of the projects I've worked on:
-
-- The [`pydantic-pycharm-plugin`](https://github.com/koxudaxi/pydantic-pycharm-plugin) to enhance Pydantic support in PyCharm, featured on [JetBrains' PyCharm Blog](https://blog.jetbrains.com/pycharm/2020/04/interview-koudai-aono-author-of-pydantic-plugin-for-pycharm/) 🎤.
-- [My poetry plugin](https://github.com/koxudaxi/poetry-pycharm-plugin) is now integrated into PyCharm from version 2021.3 onwards 🎉😎.
-  👉[What’s New in PyCharm 2021.3](https://www.jetbrains.com/pycharm/whatsnew/2021-3/)
-- The [`ruff-pycharm-plugin`](https://github.com/koxudaxi/ruff-pycharm-plugin) to aid Ruff application development within PyCharm.
-- The [`datamodel-code-generator`](https://github.com/koxudaxi/datamodel-code-generator) for generating various models from different data sources.
-   The output target models include:
-    - `pydantic.BaseModel` (v1 and v2)
-    - `dataclasses.dataclass`
-    - `typing.TypedDict`
-    - `msgspec.Struct`
-
-If any of my tools have been helpful in your projects, would you consider [sponsoring me](https://github.com/sponsors/koxudaxi)? 
-Your support would really make a difference and help me continue to maintain and improve these tools for everyone. Thank you! 🚀
-
+[![Sponsor](https://img.shields.io/badge/Sponsor-blue?style=for-the-badge)](https://github.com/sponsors/koxudaxi)
