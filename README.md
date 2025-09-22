@@ -1,8 +1,9 @@
 # Koudai Aono — Python Developer / OSS Maintainer
 
 ## 🗓️ Speaker
-- **PyCon US 2025** – 30-minute talk (Pittsburgh · May 2025)
-- **EuroPython 2025** – 30-minute talk scheduled for Prague · Jul 2025
+- 🇯🇵 **[PyCon JP 2025 — Invited Talk](https://2025.pycon.jp/en/timetable/talk/TSUPAD)** – 30-minute talk (Hiroshima · Sep 2025)
+- 🇺🇸 **[PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/13/)** – 30-minute talk (Pittsburgh · May 2025)
+- 🇨🇿 **[EuroPython 2025](https://ep2025.europython.eu/session/type-hints-in-real-world-projects-maintenance-improvement)** – 30-minute talk (Prague · Jul 2025)
 - _Past:_ “Enhancing Decorators with Type Annotations” (PyCon US & EuroPython 2024)
 
 ## 🐍 PEP 750 Co-author
