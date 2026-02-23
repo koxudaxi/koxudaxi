@@ -1,6 +1,6 @@
 # Koudai Aono — Python · Developer Tools · OSS
 
-I'm exploring new opportunities (hiring or collaboration), with a focus on developer tools and production-quality OSS.
+I'm exploring new opportunities (hiring or collaboration), especially developer tools and production-quality OSS.
 Contact: [koxudaxi.dev](https://koxudaxi.dev) · [koxudaxi@gmail.com](mailto:koxudaxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/koxudaxi/)
 
 ## 🗓️ Talks (Selected)
