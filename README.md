@@ -1,10 +1,7 @@
 # Koudai Aono — Python · Developer Tools · OSS
 
-I build useful developer tools and production-quality open source software.
-
-## Open to work / Work with me
-- **Full-time / Contract:** Global full-remote. Japan remote / hybrid. JST-based (flexible overlap hours).
-- **Contact:** [koxudaxi.dev](https://koxudaxi.dev) · [koxudaxi@gmail.com](mailto:koxudaxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/koxudaxi/)
+I'm exploring new opportunities (hiring or collaboration), especially developer tools and production-quality OSS.
+Contact: [koxudaxi.dev](https://koxudaxi.dev) · [koxudaxi@gmail.com](mailto:koxudaxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/koxudaxi/)
 
 ## 🗓️ Talks (Selected)
 - 🇺🇸 **[PyCon US 2026](https://us.pycon.org/2026/)** — "Beyond Optional in Real-World Projects: Missing, None, and Unset"
