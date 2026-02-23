@@ -8,7 +8,7 @@ Contact: [koxudaxi.dev](https://koxudaxi.dev) · [koxudaxi@gmail.com](mailto:kox
 - 🇯🇵 **[PyCon JP 2025 — Invited Talk](https://2025.pycon.jp/en/timetable/talk/TSUPAD)** — Hiroshima · Sep 2025
 - 🇺🇸 **[PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/13/)** — Pittsburgh · May 2025
 - 🇨🇿 **[EuroPython 2025](https://ep2025.europython.eu/session/type-hints-in-real-world-projects-maintenance-improvement)** — Prague · Jul 2025
-- _Past:_ "Enhancing Decorators with Type Annotations" (PyCon US & EuroPython 2024)
+- _Past:_ "Enhancing Decorators with Type Annotations" ([PyCon US 2024](https://us.pycon.org/2024/schedule/presentation/42/) · [EuroPython 2024](https://ep2024.europython.eu/session/enhancing-decorators-with-type-annotations-techniques-and-best-practices/))
 
 ## 🐍 PEP 750 Co-author
 Co-author of **[PEP 750 – Template Strings (t-strings)](https://peps.python.org/pep-0750/)**.
