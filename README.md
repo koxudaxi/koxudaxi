@@ -3,6 +3,9 @@
 I'm exploring new opportunities (hiring or collaboration), especially developer tools and production-quality OSS.
 Contact: [koxudaxi.dev](https://koxudaxi.dev) · [koxudaxi@gmail.com](mailto:koxudaxi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/koxudaxi/)
 
+If your team relies on my OSS, sponsoring is the most direct way to support long-term maintenance, compatibility updates, releases, and documentation.
+Sponsor: [GitHub Sponsors](https://github.com/sponsors/koxudaxi)
+
 ## 🗓️ Talks (Selected)
 - 🇺🇸 **[PyCon US 2026](https://us.pycon.org/2026/)** — "Beyond Optional in Real-World Projects: Missing, None, and Unset"
 - 🇯🇵 **[PyCon JP 2025 — Invited Talk](https://2025.pycon.jp/en/timetable/talk/TSUPAD)** — Hiroshima · Sep 2025
