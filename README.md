@@ -7,7 +7,8 @@ If your team relies on my OSS, sponsoring is the most direct way to support long
 Sponsor: [GitHub Sponsors](https://github.com/sponsors/koxudaxi)
 
 ## 🗓️ Talks (Selected)
-- 🇺🇸 **[PyCon US 2026](https://us.pycon.org/2026/)** — "Beyond Optional in Real-World Projects: Missing, None, and Unset"
+- 🇵🇱 **[EuroPython 2026](https://ep2026.europython.eu/session/beyond-optional-in-real-world-projects-missing-none-and-unset/)** — Kraków · Jul 2026 · "Beyond Optional in Real-World Projects: Missing, None, and Unset"
+- 🇺🇸 **[PyCon US 2026](https://us.pycon.org/2026/schedule/presentation/28/)** — Long Beach · May 2026 · "Beyond Optional in Real-World Projects: Missing, None, and Unset" ([slides/code](https://github.com/koxudaxi/pyconus_2026))
 - 🇯🇵 **[PyCon JP 2025 — Invited Talk](https://2025.pycon.jp/en/timetable/talk/TSUPAD)** — Hiroshima · Sep 2025
 - 🇺🇸 **[PyCon US 2025](https://us.pycon.org/2025/schedule/presentation/13/)** — Pittsburgh · May 2025
 - 🇨🇿 **[EuroPython 2025](https://ep2025.europython.eu/session/type-hints-in-real-world-projects-maintenance-improvement)** — Prague · Jul 2025
